@@ -26,8 +26,8 @@ Designing evidence-driven AI workflows that combine automation with human judgme
 
 | Project | Type | Maturity | What it proves |
 |---------|------|----------|----------------|
-| [**Portfolio Factory**](https://github.com/YOUR_USERNAME/portfolio-factory) | AI Workflow System | Design Mature · Simulation Proven · Operational Early | Loop engineering · evidence discipline · human gates |
-| [**LKP V1**](https://github.com/YOUR_USERNAME/lucy-knowledge-pipeline) | Data Engine | Engineering Complete · Showcase Incomplete | Multi-platform knowledge extraction · prompt-as-code |
+| [**Portfolio Factory**](https://github.com/flucy0186-cell/portfolio-factory) | AI Workflow System | Design Mature · Simulation Proven · Operational Early | Loop engineering · evidence discipline · human gates |
+| [**LKP V1**](https://github.com/flucy0186-cell/lucy-knowledge-pipeline) | Data Engine | Engineering Complete · Showcase Incomplete | Multi-platform knowledge extraction · prompt-as-code |
 | [**Healthcare AI Case**](https://github.com/flucy0186-cell/healthcare-ai-case) | Product Decision Case | Pivoted — Automation Stopped | Compliance-aware PM judgment · scope control |
 
 
