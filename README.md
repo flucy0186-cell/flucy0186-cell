@@ -1,85 +1,82 @@
-# Hi, I'm Yang Feng (Lucy) 👋
+# 冯阳 · AI 产品经理
 
-**Rehabilitation therapist → AI Workflow Engineer**
-
-Designing evidence-driven AI workflows that combine automation with human judgment — especially where context integrity, compliance, and honest scope matter more than one-shot prompt quality.
-
-📍 Shanghai, China
+> **Healthcare AI + AI PM** — 在医疗与合规敏感场景中，把一线真实摩擦转化为可验证的产品决策。  
+> 全部项目为 **原型 / 案例验证** 阶段 · 无生产部署与用户规模声称
 
 ---
 
-> **Status**: Career transition portfolio — independent AI workflow projects are **prototypes and case studies**, not production products. No user adoption, revenue, or deployed SaaS claimed.
+## 我是谁
+
+8 年医疗康复一线经验，现任临床岗位；2026 年 4 月起以 **产品负责人** 角色探索医疗 AI 产品。
+
+我不是「离开医疗做 AI」，而是在医疗场景中用 AI 产品方法解决真实业务问题——临床经历提供 **场景输入** 与 **合规判断力**，是 AI PM 的差异化基础。
 
 ---
 
-## About
+## 我解决什么问题
 
-- ~8 years clinical experience as a **Rehabilitation Therapist** (neurological, cardiopulmonary, orthopedic rehabilitation)
-- **Intermediate Rehabilitation Therapist** qualification (2024)
-- Currently at a **Shanghai rehabilitation hospital**; independently building AI workflow systems for career transition
-- Bachelor, Rehabilitation Therapy, 齐齐哈尔医学院 (2018)
-- CET-6 English
-
----
-
-## Featured Projects
-
-| Project | Type | Maturity | What it proves |
-|---------|------|----------|----------------|
-| [**Portfolio Factory**](https://github.com/flucy0186-cell/portfolio-factory) | AI Workflow System | Design Mature · Simulation Proven · Operational Early | Loop engineering · evidence discipline · human gates |
-| [**LKP V1**](https://github.com/flucy0186-cell/lucy-knowledge-pipeline) | Data Engine | Engineering Complete · Showcase Incomplete | Multi-platform knowledge extraction · prompt-as-code |
-| [**Healthcare AI Case**](https://github.com/flucy0186-cell/healthcare-ai-case) | Product Decision Case | Pivoted — Automation Stopped | Compliance-aware PM judgment · scope control |
-
+| 方向               | 我做什么                                |
+| ---------------- | ----------------------------------- |
+| **医疗场景 AI 产品探索** | 从治疗室工作流发现痛点，定义真实用户与 MVP 边界          |
+| **高监管环境产品决策**    | 识别合规与机构责任风险，判断「该不该自动化、自动化到哪一步」      |
+| **AI 知识工作流设计**   | 设计多平台 LLM（大模型）协作与知识沉淀流程，治理 AI 产出可靠性 |
 
 ---
 
-## System Overview
+## 精选项目
 
-Portfolio work is organized as a **layered system**, not disconnected demos:
+| #   | 项目                                                                                  | 一句话                         | 证明什么                |
+| --- | ----------------------------------------------------------------------------------- | --------------------------- | ------------------- |
+| 1   | [Healthcare AI Case](https://github.com/flucy0186-cell/healthcare-ai-case)           | 识别医保监管风险后，主动停止全自动打卡，转向决策辅助  | 产品决策 · 合规边界 · 人机协同  |
+| 2   | [Lucy Knowledge Pipeline](https://github.com/flucy0186-cell/lucy-knowledge-pipeline) | 个人知识管理工作流 · 106 条索引 · V1 冻结 | LLM 应用设计 · 可交付纪律    |
+| 3   | [Portfolio Factory](https://github.com/flucy0186-cell/portfolio-factory)             | 事实沉淀 → 案例 → 多渠道输出 · 人工审核闸门  | AI 产出治理 · 工作流设计     |
+
+**推荐阅读顺序**：Healthcare → LKP → Portfolio Factory
+
+---
+
+## 我的产品思考方式
 
 ```
-Lucy OS (strategy)
-    ↓
-LKP V1 (data engine — chats → structured knowledge)
-    ↓
-Portfolio Factory (orchestration — state · stages · prompts · gates)
-    ↓
-Evidence → Artifacts → Cases → Career Output
+问题     →  一线真实摩擦是什么？用户是谁、不是什么？
+   ↓
+决策     →  价值与风险/监管目标是否冲突？该不该继续这个方向？
+   ↓
+方案     →  MVP 边界：辅助什么、不替代什么、谁确认、谁负责？
+   ↓
+事实依据  →  决策与产出是否可追溯、可审核、可复盘？
 ```
 
----
+**三个原则**
 
-## Highlights
-
-- Built **Portfolio Factory V0.2** orchestrator (~1,350 LOC Python stdlib) with cross-project loop validation
-- Completed **LKP V1** four-platform pipeline with Global deduplication (106 entries)
-- Stopped Healthcare full automation on **compliance grounds**; pivoted to decision support
-- Defined Cyber Lucy **retrieve-first** scope; rejected inflated digital-twin promise
-- Established **evidence-before-narrative** discipline across portfolio cases
+- **合规场景**：先问「该不该自动化」，再问「怎么自动化」
+- **知识工作流**：先建立可检索、可去重的索引层，再支撑案例与对外产出
+- **AI 协作生产**：先固定可验证事实，再生成案例与对外叙事
 
 ---
 
-## Skills
+## 当前方向
 
-**AI & Workflow**: Prompt engineering · Python CLI tooling · Loop engineering · Cursor Agent workflows · Knowledge extraction · State management
-
-**Product**: Scope control · Compliance-aware decisions · Evidence-led documentation · Human-in-the-loop design
-
-**Domain**: Healthcare rehabilitation workflows · Clinical product judgment (medical-insurance supervision context)
+- **AI 产品管理** — 医疗 AI / HealthTech / 企业大模型应用
+- **Healthcare AI** — 闵行医保监管场景探索（产品决策已完成 · 交付验证进行中）
+- **人机协同（Human-in-the-Loop）** — 关键节点人工确认 · 审核闸门 · 责任切割
 
 ---
 
-## What I Do Not Claim
+## 背景（简要）
 
-- Autonomous AI agents
-- Production SaaS or deployed platforms
-- User adoption or revenue metrics
-- Minute-level efficiency gains without timing logs
-- Shipped healthcare or personal-memory products
+- 康复治疗师（中级）· 神经与心肺康复 · 8 年临床
+- 2026.04 – 至今：3 项公开 AI 产品 / 工作流原型（详见上方项目）
+- 教育：齐齐哈尔医学院 · 康复治疗学 · 本科
 
 ---
 
-## Connect
+## 联系方式
 
-- GitHub: open an issue or discussion on any project repository below
-- LinkedIn: *available on request*
+- 📧 **公开邮箱**：flucy0186@gmail.com
+- 📄 **简历 PDF**：*（人工发布时填入公开链接 — 勿粘贴简历正文）*
+- 💬 **GitHub Issues / Discussions**：欢迎通过项目仓库交流
+
+---
+
+*更新于 2026-07-19 · 全部项目为原型 / 案例验证阶段*
